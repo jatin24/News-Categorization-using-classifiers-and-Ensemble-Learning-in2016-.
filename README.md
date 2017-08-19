@@ -1,0 +1,2 @@
+# News-Categorization-using-classifiers-and-Ensemble-Learning-in2016-.
+The project is developed in Python.  Step 1: Developed a crawler in python using which I collected the news of different categories from www.bing.com. For example, Education, Awards, Rape, Acid attack, Terrorist reform, Science etc. Step 2: Determined the accuracy of different classifiers on news data set like, Random Forest, Decision Tree, SVM. Step 3: Enhanced the accuracy by doing cascading of classifiers.
